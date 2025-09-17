@@ -1,0 +1,17 @@
+# Node
+client/node_modules/
+client/.env
+
+# Python
+server/__pycache__/
+server/.env
+server/venv/
+ai-engine/__pycache__/
+ai-engine/.env
+ai-engine/venv/
+
+# VSCode
+.vscode/
+
+# Docker
+**/.DS_Store
